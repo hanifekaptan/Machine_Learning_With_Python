@@ -57,3 +57,8 @@ Unsupervised models operate on unlabeled data and are used for exploring the str
 
 ## How to Use
 To use this project, ensure that the required libraries are installed. You can install the necessary dependencies by running the following command in your terminal or command prompt:
+> pip install -r requirements.txt
+
+## Contact Information
+For any questions or feedback, feel free to contact me:
+Linkedin: [LinkedIn](https://www.linkedin.com/in/hanifekaptan-u1f90d/)
